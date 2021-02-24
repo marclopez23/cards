@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Redirect } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import React, { useState } from "react";
 import Main from "./views/Main/Main";
 import Detail from "./views/Detail/Detail";

@@ -1,4 +1,4 @@
-import React, { setState, useState } from "react";
+import React, { useState } from "react";
 import "./New.css";
 const New = ({ func }) => {
   const initialState = {

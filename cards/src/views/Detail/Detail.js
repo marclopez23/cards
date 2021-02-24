@@ -9,7 +9,7 @@ const Detail = ({ foods }) => {
     const food = foods.filter((food) => food.id === cardId);
     setCard(...food);
   };
-  useEffect(() => setItem(), [card]);
+  useEffect(() => setItem(), [cardId]);
   return (
     <main>
       <section>
