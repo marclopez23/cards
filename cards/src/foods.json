@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Pizza",
+    "calories": 400,
+    "image": "https://i.imgur.com/eTmWoAN.png",
+    "quantity": 0,
+    "id": "0"
+  },
+  {
+    "name": "Salad",
+    "calories": 150,
+    "image": "https://i.imgur.com/DupGBz5.jpg",
+    "quantity": 0,
+    "id": "1"
+  },
+  {
+    "name": "Sweet Potato",
+    "calories": 120,
+    "image": "https://i.imgur.com/hGraGyR.jpg",
+    "quantity": 0,
+    "id": "2"
+  },
+  {
+    "name": "Gnocchi",
+    "calories": 500,
+    "image": "https://i.imgur.com/93ekwW0.jpg",
+    "quantity": 0,
+    "id": "3"
+  },
+  {
+    "name": "Pot Roast",
+    "calories": 350,
+    "image": "https://i.imgur.com/WCzJDWz.jpg",
+    "quantity": 0,
+    "id": "4"
+  },
+  {
+    "name": "Lasagna",
+    "calories": 750,
+    "image": "https://i.imgur.com/ClxOafl.jpg",
+    "quantity": 0,
+    "id": "5"
+  },
+  {
+    "name": "Hamburger",
+    "calories": 400,
+    "image": "https://i.imgur.com/LoG39wK.jpg",
+    "quantity": 0,
+    "id": "6"
+  }
+]

@@ -1,0 +1,13 @@
+article {
+  margin: 1em;
+  text-align: center;
+  border-radius: 20px;
+  -webkit-box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.25);
+  padding: 1em;
+}
+
+article img {
+  width: 100%;
+}
